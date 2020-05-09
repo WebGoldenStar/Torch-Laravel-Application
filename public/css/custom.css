@@ -1,0 +1,48 @@
+#title-text{
+    border: 1px solid gray;
+    border-radius: 20px;        
+}
+#content-text{
+    height: 250px;
+    border: 1px solid gray;    
+    border-radius: 20px;   
+    max-height: 500px;
+}
+
+#blah{
+    border : 5px solid darkgray;
+    border-radius: 20px;
+    max-height: 300px;
+    transform: scale(0.5);
+    opacity: 0.6;
+}
+
+
+.form-group-border{
+    border: 1px solid gray;
+    border-radius: 20px;
+    padding: 10px;
+}
+#modalTitle{
+    color: darkorange;
+    background: transparent;
+    font-size: 18px;
+    border: none;
+}
+
+
+.content_title{
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 200px;  
+  margin-bottom: 0px;
+}
+
+.content_body{
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 600px;  
+  margin-bottom: 0px;
+}
